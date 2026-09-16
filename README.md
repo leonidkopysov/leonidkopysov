@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cheburnet-profile-banner.jpg" alt="ЧебурNET — инструменты для Linux-инфраструктуры" width="100%">
+<img src="assets/cheburnet-banner.webp" alt="ЧебурNET — инструменты для Linux-инфраструктуры" width="100%">
 
 # Леонид Копысов
 
